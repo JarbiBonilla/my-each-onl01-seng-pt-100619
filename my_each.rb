@@ -1,2 +1,4 @@
-def my_each 
+require 'pry'
+
+def my_each(array)
 end
