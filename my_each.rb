@@ -3,5 +3,5 @@ require 'pry'
 def my_each(array)
   i = 0
   
-  while 
+  while < array.length
 end
